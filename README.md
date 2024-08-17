@@ -30,7 +30,7 @@
       width="40"
       style="margin-right: 20px"
   /></a>
-  <a href="https://linkedin.com/in/mohanrajmurugasen" target="blank"
+  <a href="https://www.linkedin.com/in/murugesanmohanraj" target="blank"
     ><img
       align="center"
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png"
