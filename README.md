@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohanraj Murugesan</h1>
-<h3 align="center">Senior Software Engineer | Building Scalable Software Solutions</h3>
+<h3 align="center">Senior Software Engineer | Full-Stack Developer | Building AI-Powered & Scalable Software</h3>
 
 <p align="left">
   <img
@@ -11,27 +11,30 @@
 <ul>
   <li>🔭 I'm currently building enterprise SaaS applications for the <strong>Wood Mackenzie Lens</strong> platform at <strong>GlobalLogic</strong>.</li>
 
-  <li>🌱 I believe in continuous learning and enjoy exploring new tools, technologies, and engineering best practices.</li>
+  <li>🤖 I'm also exploring <strong>AI application development, LLM integration, and prompt engineering</strong> by building AI-powered features and developer tools.</li>
 
-  <li>👨‍💻 Explore my projects and portfolio:
+  <li>🌱 I enjoy continuously learning new technologies and applying them to solve real-world engineering problems.</li>
+
+  <li>👨‍💻 Explore my portfolio:
     <a href="https://mohanrajdev.netlify.app/" target="_blank">mohanrajdev.netlify.app</a>
   </li>
 
-  <li>💬 Ask me about <strong>JavaScript, TypeScript, React, Next.js, Node.js, GraphQL, AWS, and Software Architecture</strong>.</li>
+  <li>💬 Ask me about <strong>JavaScript, TypeScript, React, Next.js, Node.js, GraphQL, AWS, AI & LLMs, and Software Architecture</strong>.</li>
 
-  <li>📫 Reach me at
-    <strong>mohanraj.mv.99@gmail.com</strong>
+  <li>
+    📫 Reach me at
+    <a href="mailto:mohanraj.mv.99@gmail.com?subject=Let's%20Connect">
+      mohanraj.mv.99@gmail.com
+    </a>
   </li>
 
   <li>📄 View my resume:
     <a href="https://mohanrajdev.netlify.app/resume" target="_blank">Resume</a>
   </li>
 
-  <li>🤝 I'm always open to collaborating on interesting projects, open-source contributions, and knowledge sharing.
-    <a href="https://calendly.com/mohanraj-mv-99/30min?month=2023-11" target="_blank">Let's Connect</a>
-  </li>
+  <li>🤝 I'm always open to collaborating on interesting projects, open-source contributions, and knowledge sharing.</li>
 
-  <li>⚡ I enjoy solving complex problems, building scalable software, and continuously learning new technologies.</li>
+  <li>⚡ I enjoy building scalable software, AI-powered applications, and creating great developer experiences.</li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
@@ -536,22 +539,6 @@
       height="40"
     />
   </a>
-</p>
-
-<p>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=mohanrajmurugesan&show_icons=true&locale=en&layout=compact"
-    alt="mohanrajmurugasen"
-  />
-</p>
-
-<p>
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=mohanrajmurugesan&show_icons=true&locale=en"
-    alt="mohanrajmurugasen"
-  />
 </p>
 
 <p>
